@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<!-- _________________________ Application Settings _________________________ -->
+	<!-- _________________________ Application Settings Omg _________________________ -->
 
 	<app title="Friday Night Funkin' Neo" file="FNF NEO" packageName="com.magnus.fnfneo" package="com.magnus.fnfneo" main="Main" version="0.2.7.1" company="magnus" />
 
